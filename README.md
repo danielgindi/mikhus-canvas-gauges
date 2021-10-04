@@ -17,6 +17,8 @@
 This is tiny implementation of highly configurable gauge using pure JavaScript and HTML5 canvas.
 No dependencies. Suitable for IoT devices because of minimum code base.
 
+This is a fork from [Mikhus](https://github.com/Mikhus/canvas-gauges), releasing to npm under `@danielgindi/canvas-gauges`.
+
 ## Installation
 
 Canvas gauges can be simply installed using npm package manager. Depending on your needs there is possibility to install whole gauge library or only that part you really need for your project.
